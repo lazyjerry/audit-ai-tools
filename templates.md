@@ -9,8 +9,8 @@
 掃描完成後，**詢問使用者是否要將報告輸出為檔案**：
 
 > 掃描完成！是否要將報告儲存為檔案？
-> - 預設路徑：`docs/report/security-scan-<YYYYMMDD-HHmmss>.md`
-> - 輸入自訂路徑，或按 Enter 使用預設值
+> 1. 預設路徑：`docs/report/security-scan-<YYYYMMDD-HHmmss>.md`
+> 2. 輸入自訂路徑，或按 Enter 使用預設值
 > - 輸入 `n` 僅顯示於畫面上
 
 若使用者選擇輸出檔案：
