@@ -121,9 +121,7 @@ audit plugins，請分析這個 GitHub 倉庫是否有遙測風險
 
 以下為實際掃描結果，可作為報告格式與內容深度的參考：
 
-| 報告 | 掃描對象 | 類型 | 說明 |
-|------|----------|------|------|
-| [github-scan-gstack.md](docs/examples/github-scan-gstack.md) | `garrytan/gstack` | GitHub 掃描 | 高知名度 Claude Code workflow（63k stars），發現 4 個 High、4 個 Medium 問題，含遙測追蹤與持久識別碼分析 |
+👉 [瀏覽所有範例報告](https://github.com/lazyjerry/skill-security-scan/tree/main/docs/examples)
 
 ## 使用原則
 

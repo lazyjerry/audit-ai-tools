@@ -121,9 +121,7 @@ audit plugins, please analyze whether this GitHub repository has telemetry risks
 
 The following are actual scan results that can serve as references for report format and depth:
 
-| Report | Target | Type | Description |
-|--------|--------|------|-------------|
-| [github-scan-gstack.md](docs/examples/github-scan-gstack.md) | `garrytan/gstack` | GitHub Scan | High-profile Claude Code workflow (63k stars); found 4 High and 4 Medium issues, including telemetry tracking and persistent identifier analysis |
+👉 [Browse all example reports](https://github.com/lazyjerry/skill-security-scan/tree/main/docs/examples)
 
 ## Usage Principles
 
