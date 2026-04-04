@@ -1,6 +1,6 @@
 ---
-name: skill-security-scan
-description: 掃描已安裝的 AI 工具擴充（skills、plugins、commands、rules）是否存在資安問題，包含提示注入、指令注入、資料外洩、權限竄改、遙測追蹤等風險。也支援輸入 GitHub 倉庫網址，在安裝前預先分析該 repo 的類型與安全風險。當使用者說「掃描 skill」、「檢查 skill 安全」、「audit plugins」、「skill 資安檢查」、或貼上 GitHub URL 要求檢查時觸發。
+name: audit-ai-tools
+description: 掃描已安裝的 AI 工具擴充（skills、plugins、commands、rules）是否存在資安問題，包含提示注入、指令注入、資料外洩、權限竄改、遙測追蹤等風險。也支援輸入 GitHub 倉庫網址，在安裝前預先分析該 repo 的類型與安全風險。當使用者說「掃描 skill」、「檢查 skill 安全」、「audit plugins」、「audit ai tools」、「skill 資安檢查」、或貼上 GitHub URL 要求檢查時觸發。
 ---
 
 # Skill & Plugin 資安掃描精靈
