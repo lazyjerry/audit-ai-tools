@@ -1,6 +1,6 @@
 # skill-security-scan
 
-简体中文 · [繁體中文](README.md) · [日本語](README_JP.md) · [한국어](README_KR.md)
+简体中文 · [繁體中文](README.md) · [English](README_EN.md) · [日本語](README_JP.md) · [한국어](README_KR.md)
 
 用于扫描 AI 工具扩展的安全风险，涵盖本机已安装项目与远端 GitHub 仓库两种场景。
 

@@ -1,6 +1,6 @@
 # skill-security-scan
 
-[简体中文](README_CN.md) · [繁體中文](README.md) · 日本語 · [한국어](README_KR.md)
+[简体中文](README_CN.md) · [繁體中文](README.md) · [English](README_EN.md) · 日本語 · [한국어](README_KR.md)
 
 AI ツール拡張のセキュリティリスクをスキャンするための skill です。ローカルにインストール済みの項目と、リモートの GitHub リポジトリの両方を対象にします。
 

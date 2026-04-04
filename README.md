@@ -1,6 +1,6 @@
 # skill-security-scan
 
-[简体中文](README_CN.md) · 繁體中文 · [日本語](README_JP.md) · [한국어](README_KR.md)
+[简体中文](README_CN.md) · 繁體中文 · [English](README_EN.md) · [日本語](README_JP.md) · [한국어](README_KR.md)
 
 用於掃描 AI 工具擴充的資安風險，涵蓋本機已安裝項目與遠端 GitHub 倉庫兩種情境。
 
@@ -116,6 +116,14 @@ https://github.com/example/example-skill
 ```text
 audit plugins，請分析這個 GitHub 倉庫是否有遙測風險
 ```
+
+## 範例報告
+
+以下為實際掃描結果，可作為報告格式與內容深度的參考：
+
+| 報告 | 掃描對象 | 類型 | 說明 |
+|------|----------|------|------|
+| [github-scan-gstack.md](docs/examples/github-scan-gstack.md) | `garrytan/gstack` | GitHub 掃描 | 高知名度 Claude Code workflow（63k stars），發現 4 個 High、4 個 Medium 問題，含遙測追蹤與持久識別碼分析 |
 
 ## 使用原則
 
